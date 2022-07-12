@@ -1,4 +1,4 @@
-# [Link](https://tenzies-dice.vercel.app/)
+# [Tenzies Dice](https://tenzies-dice.vercel.app/)
 
 # Getting Started with Create React App
 
