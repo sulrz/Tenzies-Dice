@@ -13,7 +13,7 @@ function App() {
 
   React.useEffect(() => {
     const val = dice[0].value;
-    const wonGame = dice.every(die => die.value == val && die.isHeld);
+    const wonGame = dice.every(die => die.value === val && die.isHeld);
 
     if (wonGame) 
       setWon(true);
